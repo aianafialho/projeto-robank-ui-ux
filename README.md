@@ -6,7 +6,7 @@ Projeto de interface (UI) de um aplicativo bancário desenvolvido no Figma como 
 
 O objetivo foi criar uma experiência moderna, intuitiva e organizada para gestão financeira digital.
 
-Link do Prototipo: https://www.figma.com/proto/NXd52QiAMv5AddntW0Kcs5/projeto_robank?node-id=15-142&starting-point-node-id=1%3A2&t=DjpP33swbruNBTQA-1
+Link do Prototipo: https://www.figma.com/proto/NXd52QiAMv5AddntW0Kcs5/projeto_robank?node-id=1-2&starting-point-node-id=1%3A2&t=P2VeIICDjpQWJYfj-1- 
 
 ## Telas Desenvolvidas
 
